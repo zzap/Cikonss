@@ -3,7 +3,8 @@
 
 		function cikonssMenu() {
 			if (matchMedia('screen and (max-width: 680px)').matches) {
-				var trigger = $('.top-bar .item-first');
+				var trigger = $('.top-bar .item-first'),
+					item = $('.navigation .menu a');
 
 				$('.top-bar .menu').hide();
 				trigger.addClass('closed');
