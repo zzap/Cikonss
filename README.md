@@ -3,18 +3,18 @@ Cikonss
 
 Cikonss are created in order to be pure CSS, responsive and cross-browser usable. By "cross-browser" I mean IE8 as well. This means that CSS2 is in use which leads to limited shapes (and icons) available.
 
-![Cikonss](http://cikonss.zzapwebdesign.com/assets/cikonss.png)
+![Cikonss](http://cikonss.developerka.org/assets/cikonss.png)
 
 Some of icons do have border-radius property but this is mainly for fine styling in browsers that supports this property. This doesn't effect in loosing the shape of the icon.
 
 ##Demos
 
-- [Cikonss - main page](http://cikonss.zzapwebdesign.com/)
-- [Small Cikonss](http://cikonss.zzapwebdesign.com/small-icons.html)
-- [Mid Cikonss](http://cikonss.zzapwebdesign.com/mid-icons.html)
-- [Large Cikonss](http://cikonss.zzapwebdesign.com/large-icons.html)
-- [Extra Large Cikonss](http://cikonss.zzapwebdesign.com/extra-large-icons.html)
-- [Huge Cikonss](http://cikonss.zzapwebdesign.com/huge-icons.html)
+- [Cikonss - main page](http://cikonss.developerka.org/)
+- [Small Cikonss](http://cikonss.developerka.org/small-icons.html)
+- [Mid Cikonss](http://cikonss.developerka.org/mid-icons.html)
+- [Large Cikonss](http://cikonss.developerka.org/large-icons.html)
+- [Extra Large Cikonss](http://cikonss.developerka.org/extra-large-icons.html)
+- [Huge Cikonss](http://cikonss.developerka.org/huge-icons.html)
 
 ##Usage
 
@@ -30,7 +30,7 @@ Now you can simply choose out of 43 icons, 5 sizes and 3 variants. An icon is ma
 
 `<span class="icon icon-small icon-square">...</span>`
 
-Child element is the actual icon - available classes are in [preview](http://cikonss.zzapwebdesign.com/index.html#preview) section. Mandatory code for an icon would look like this:
+Child element is the actual icon - available classes are in [preview](http://cikonss.developerka.org/index.html#preview) section. Mandatory code for an icon would look like this:
 
 `<span class="icon icon-mid"><span class="icon-mail"></span></span>`
 
